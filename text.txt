@@ -1,2 +1,3 @@
 xin chào!
 tôi đang sửa trên remote
+tôi làm phần này trên local
